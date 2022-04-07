@@ -1,3 +1,3 @@
 # projeto-javascript
 
-Trabalho em dupla
+Projeto: Jogo Pong em Java
